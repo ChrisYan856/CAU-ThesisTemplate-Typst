@@ -1,6 +1,6 @@
 // #import "@preview/tablex:0.0.7": tablex, hlinex, rowspanx
 #import "../ref/booktab.typ": *
-#import "../ref/codelst.typ": sourcecode
+#import "@preview/codelst:2.0.1": sourcecode
 #import "../ref/acronyms.typ": acro, usedAcronyms, acronyms
 
 // #let tl-table = tablex.with(
