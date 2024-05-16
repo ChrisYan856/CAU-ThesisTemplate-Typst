@@ -55,7 +55,7 @@
     background: if draft {rotate(-12deg, text(80pt, font:"Sigmar One", fill: silver)[DRAFT])} else {},
   )
 
-  set text(font: ("Times New Roman", "SimSun"), size: 12pt, hyphenate: false)
+  set text(font: ("Times New Roman", "SimSun"), size: 12pt, hyphenate: false, lang: "zh-CN")
   
   // show strong: set text(font: ("Times New Roman", "SimHei"), weight: "semibold", size: 12pt)
 
